@@ -1,9 +1,10 @@
 # Image_manipulation_enhancement
 
-##
+## Demo
 
-- [Watch the video](demo.mp4)
-
+![](demo.gif)
+- [Watch the video](https://drive.google.com/file/d/1corEMI0BcNwZnsy9q0gqKHPDm351lwL0/view?usp=drive_link)
+- The source code is available upon request. Please feel free to reach out for access.
 
 ## Image Cite
 

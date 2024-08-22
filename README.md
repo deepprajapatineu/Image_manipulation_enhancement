@@ -2,7 +2,8 @@
 
 ##
 
-- [![Demo]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://drive.google.com/file/d/1corEMI0BcNwZnsy9q0gqKHPDm351lwL0/view?usp=drive_link))]([https://www.youtube.com/watch?v=VIDEO_ID](https://drive.google.com/file/d/1corEMI0BcNwZnsy9q0gqKHPDm351lwL0/view?usp=drive_link))
+- [Watch the video](demo.mp4)
+
 
 ## Image Cite
 
